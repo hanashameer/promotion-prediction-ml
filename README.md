@@ -1,2 +1,3 @@
 # promotion-prediction-ml
-A machine learning project to predict employee promotions using classification model. Built for the WNS Analytics Wizard internship assessment.
+A machine learning project to predict employee promotions using classification model. 
+This project was developed for the WNS Analytics Wizard internship assessment. The objective was to build a machine learning model to predict whether an employee should be promoted based on features like performance ratings, KPI completion, training scores, and demographics. After performing data cleaning, preprocessing, and exploratory data analysis, I trained multiple classification models including XGBoost, Random Forest, MLP, and Gradient Boosting. The best performance was achieved using a tuned Gradient Boosting Classifier, which gave a validation F1 Score of 0.5078. Final predictions were made on the test dataset and submitted in the required format to Analytics Vidhya.
